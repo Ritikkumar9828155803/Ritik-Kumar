@@ -1,7 +1,9 @@
 # Ritik-Kumar
 
-Data Scientist
+Data Scientist 
+
 Welcome to my Github Profile
+
 I am Ritik and I have a passion for mathematics, machine learning and data science to create insights that can make informed business decisions. I possess the skills necessary to analyze complex data sets and build predictive models. I am constantly seeking to learn and grow in the field of data science and I am committed to stay up-to-date with the latest trends and technologies.
 
 
