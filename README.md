@@ -22,7 +22,7 @@ I am Ritik and I have a passion for mathematics, machine learning and data scien
 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritik-kumar-a7145323b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://github.com/Ritikkumar9828155803/profile_9828)]
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ritikkumar)  
 
 
